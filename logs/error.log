@@ -1,0 +1,9 @@
+{"name":"koaspace_desktop","hostname":"Jamess-MacBook-Pro.local","pid":84775,"level":50,"filePath":"/Users/jameslo/Dropbox/myproject/koaspace-desktop/app/koaspace/TEST.TST","msg":"File fails to upload","time":"2018-09-09T01:41:47.820Z","v":0}
+{"name":"koaspace_desktop","hostname":"Jamess-MacBook-Pro.local","pid":85046,"level":50,"filePath":"/Users/jameslo/Dropbox/myproject/koaspace-desktop/app/koaspace/test.txt","msg":"File fails to upload","time":"2018-09-09T01:58:36.096Z","v":0}
+{"name":"koaspace_desktop","hostname":"Jamess-MacBook-Pro.local","pid":87035,"level":50,"filePath":"/Users/jameslo/Dropbox/myproject/koaspace-desktop/app/koaspace/test.txt","msg":"File fails to upload","time":"2018-09-09T02:29:16.569Z","v":0}
+{"name":"koaspace_desktop","hostname":"Jamess-MacBook-Pro.local","pid":88136,"level":50,"msg":"test error","time":"2018-09-09T03:54:47.255Z","v":0}
+{"name":"koaspace_desktop","hostname":"Jamess-MacBook-Pro.local","pid":88317,"level":50,"msg":"test error","time":"2018-09-09T04:07:45.679Z","v":0}
+{"name":"koaspace_desktop","hostname":"Jamess-MacBook-Pro.local","pid":88340,"level":50,"msg":"test error","time":"2018-09-09T04:08:16.938Z","v":0}
+{"name":"koaspace_desktop","hostname":"Jamess-MacBook-Pro.local","pid":88422,"level":50,"msg":"test error","time":"2018-09-09T04:09:42.676Z","v":0}
+{"name":"koaspace_desktop","hostname":"Jamess-MacBook-Pro.local","pid":1500,"level":50,"err":{"errno":-2,"code":"ENOENT","syscall":"open","path":"./test.txt"},"msg":"Error event has been emitted from the readStream","time":"2018-09-10T23:43:19.076Z","v":0}
+{"name":"koaspace_desktop","hostname":"Jamess-MacBook-Pro.local","pid":1500,"level":50,"event":"error","err":{"errno":-2,"code":"ENOENT","syscall":"open","path":"./test.txt"},"msg":"Error occurs in readFileStreamObservable","time":"2018-09-10T23:43:19.078Z","v":0}
