@@ -16,6 +16,5 @@ js_starter has minimum configuration for node app including eslint, prettier wit
 
 ```sh
 $ npm install
-$ npm install -d
-$ node app
+$ node run start
 ```
